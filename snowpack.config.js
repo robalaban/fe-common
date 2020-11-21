@@ -8,22 +8,4 @@ module.exports = {
     "@snowpack/plugin-dotenv",
     "@snowpack/plugin-postcss",
   ],
-  install: [
-    /* ... */
-  ],
-  installOptions: {
-    /* ... */
-  },
-  devOptions: {
-    /* ... */
-  },
-  buildOptions: {
-    /* ... */
-  },
-  proxy: {
-    /* ... */
-  },
-  alias: {
-    /* ... */
-  },
 };
